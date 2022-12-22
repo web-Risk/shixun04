@@ -1,0 +1,13 @@
+ .header{
+ 	width:980px;
+ 	margin:0 auto;
+ 	padding-top: 20px;
+ 	overflow: hidden;
+ }
+ .header .left{float: left;}
+ .header .right{
+ 	float: right;
+ 	line-height: 80px;
+ }
+ .header a{color: #404042;}
+ .header a:hover{color:#da5454;}
